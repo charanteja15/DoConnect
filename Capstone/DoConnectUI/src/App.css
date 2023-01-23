@@ -1,0 +1,124 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.home
+{
+  background-image: url('https://th.bing.com/th/id/R.1103578376e47fa3894f2a0cb1dfcfbb?rik=qN540gR5x3yj2Q&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f6%2f96%2fDRnpz0.jpg&ehk=El7q5D%2bDmz%2f%2fFO8yX0HbjM9rCffqalIeWcTnb8xjZU0%3d&risl=&pid=ImgRaw&r=0');
+  background-size: cover;
+  height: auto;
+  color: #f5f5f5;
+  margin:0;
+  padding:0;
+}
+
+.interface{
+  background-image: url('https://www.foroes.net/wp-content/uploads/2016/09/Selection-Process.jpg');
+  background-size: cover;
+  background-repeat: none;
+  height: auto;
+  color:yellow;
+  margin:0;
+  padding:0;
+  
+}
+
+.login{
+  background-image: url('https://th.bing.com/th/id/OIP.fEyzTdjAty74F0-HAe2D0QHaEK?pid=ImgDet&rs=1');
+  background-size: cover;
+  height: 50em;
+  width:auto;
+  margin:0;
+  padding:0;
+}
+
+.registration
+{
+  background-image: url('https://wallpapertag.com/wallpaper/full/2/3/1/354637-blur-background-1920x1080-for-ipad-2.jpg');
+  background-size: cover;
+  height: 50em;
+  width:auto; 
+  margin:0;
+  padding:0;
+}
+
+.dashboard
+{
+  background-image: url('');
+  background-size: cover;
+  height: 50em;
+  width:auto; 
+  margin:0;
+  padding:0;
+}
+
+.question
+{
+  background-image: url('https://c0.wallpaperflare.com/preview/80/452/981/advice-answer-ask-assistance.jpg');
+  background-size: cover;
+  height: 55em;
+  width:auto; 
+  margin:0;
+  padding:0;
+}
+
+.answer
+{
+  background-image: url('https://wallpapercave.com/wp/wp1974395.jpg');
+  background-size: cover;
+  height: 50em;
+  width:auto; 
+  margin:0;
+  padding:0;
+}
+.chat{
+  background-image: url('https://clariti.b-cdn.net/wp-content/uploads/2021/02/Team_chat1-min.jpg');
+  background-size: cover;
+  height: 50em;
+  width:auto; 
+  margin:0;
+  padding:0;
+}
+
+.logout{
+  background-image: url('https://thumbs.dreamstime.com/b/logout-man-working-holographic-interface-visual-screen-logout-man-working-holographic-interface-visual-screen-high-quality-99461109.jpg');
+  background-size: cover;
+  height: 50em;
+  margin:0;
+  padding:0;
+}
